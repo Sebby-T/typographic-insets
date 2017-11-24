@@ -88,10 +88,6 @@ footer {
 
 /* Write your CSS here */
 
-main p {
-  margin: 0 2rem;
-}
-
 .wrapper:nth-child(2)::first-letter {
   font-size: 5rem;
   font-style: normal;
