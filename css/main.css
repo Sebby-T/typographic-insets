@@ -100,6 +100,10 @@ footer {
   float: left;
 }
 
+.wrapper {
+  font-size: .875rem;
+}
+
 figure {
   float: right;
   border-top: 3px solid #333;
@@ -111,6 +115,7 @@ figure {
 }
 
 figcaption {
+  padding: 6px 0;
   font-style: italic;
   font-size: .875rem;
 }
