@@ -121,7 +121,7 @@ blockquote {
   width: 300px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: 6px;
+  margin: 1rem;
 }
 
 blockquote p:first-child {
@@ -130,5 +130,4 @@ blockquote p:first-child {
   margin: 0;
   color: #666;
   text-align: right;
-  padding: .4em .2em;
 }
