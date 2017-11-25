@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-.wrapper:nth-child(2):first-letter {
+.wrapper:nth-child(2)::first-letter {
   float: left;
   font-size: 5rem;
   font-style: normal;
