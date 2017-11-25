@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-.wrapper:nth-child(2)::first-letter {
+.wrapper > p:first-child::first-letter {
   float: left;
   font-size: 5rem;
   font-style: normal;
@@ -109,8 +109,6 @@ figure {
   margin: .5rem;
   width: 300px;
   text-align: left;
-  position: relative;
-  left: 10rem;
 }
 
 figcaption {
@@ -125,8 +123,6 @@ blockquote {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   margin: 1rem;
-  position: relative;
-  right: 10rem;
 }
 
 blockquote p:first-child {
