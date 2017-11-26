@@ -99,6 +99,7 @@ footer {
   border-bottom: 3px solid #333;
   padding: 10px 15px;
   margin-right: .5rem;
+  margin-left: -2rem;
 }
 
 figure {
@@ -107,6 +108,7 @@ figure {
   border-bottom: 3px solid #333;
   padding: 6px 0;
   margin: .5rem;
+  margin-right: -9rem;
   width: 300px;
   text-align: left;
 }
@@ -123,6 +125,7 @@ blockquote {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   margin: 1rem;
+  margin-left: -9.5rem;
 }
 
 blockquote p:first-child {
